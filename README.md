@@ -2,8 +2,12 @@
 
 Denna övning är till för att öva grunderna inom CSS Selektorer.
 
-Använd dig av lämplig selektor under varje rad och applicera den style som anges
+1. Gör en clone eller ladda hem .html och .css-filen. 
 
-Till din hjälp kan du anävnda dig av denna lista på de mest 30 användbara selektorerna.
+2. Arbeta i selectors.css och använd dig av lämplig selektor under varje rad och applicera den style som anges
+
+Till din hjälp är denna lista på de mest 30 användbara selektorerna.
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 Obs! Du får inte ändra något i HTML
