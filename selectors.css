@@ -1,0 +1,43 @@
+/* Style the HTML elements according to the following instructions. 
+DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
+
+/* 1. <body> elementet ska ha bakgrundsfärg #bdc3c7*/
+
+/* 2. Rubriken <h1> ska ha färg #9b59b6*/
+
+/* 3. Alla underubriker <h2> ska ha en orange färg */
+
+/* 4. Alla <li> element ska ha blå färg (välj valfri hexadecimal färg)*/
+
+/* 5. Ändra bakgrundsfärgen till gul för varje paragraf*/
+
+/* 6. Alla inmatningsfält (input) ska ha en '3px red border'*/
+
+/* 7. Alla element med class 'hello' ska ha en vit bakgrund*/
+
+/* 8. Elementet med id 'special' ska ha '2px solid blue border'*/
+
+/* 9. Alla <p> och <div> ska ha färger #ccfff1
+
+/* 10. Alla  <p> som ligger nästladee (inuti) en div ska ha font-size: 25px*/
+
+/* 11. Gör så att <h1> elementet får färgen blå när musen är över elementet (:hover) */
+
+/* 12. Gör så att alla besökta <a> element får färgen grå (:visited) */
+
+/*BONUS*/
+
+/* 1. Alla inmatningsfält (input) av typ 'text' ska ha grå bakgrund */
+
+/* 2. Alla checkboxrutor som är 'checked' ska får en vänstermarginal på 50px (left-margin: 50px) */
+
+
+/* 3. Text i alla <label> ska vara UPPERCASE*/
+
+/* Endast första bokstaven inuti elementet med id 'special' ska få grön färg och font-size: 100px */
+
+/* Ge båda <p> elementen inute den tredje <div>-en rosa bakgrund*/
+
+/* Ge det andra <p>-elementet inuti den trdje <div>-en '5px white border'*/
+
+/* Ge <em> elementet inuti det tredje <div> elementey vit färg och font-size på 20px*/
