@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 /* Välj lämplig selektor och styla det som är angett! Skriv endast här i CSS dokumentet, ändra inte i HTML!*/
 
 /* Ge alla element på sidan en 'box-sizing: border-box;' */
 
 
+=======
+>>>>>>> 0ea423474e7da37968d182062c28f1d7f6175bef
 /* 1. <body> elementet ska ha bakgrundsfärg #bdc3c7*/
 
 
@@ -28,6 +31,7 @@
 
 
 
+<<<<<<< HEAD
 /* 8. Elementet med id 'special' ska ha en border på '2px solid blue'*/
 
 
@@ -42,6 +46,9 @@
 
 /* Ge alla em inuti en paragraf inuti den fjärde div-en med class="forth" en 'text-docration: underline;*/
 
+=======
+/* 10. Alla  <p> som ligger nästlade (inuti) en div ska ha font-size: 25px*/
+>>>>>>> 0ea423474e7da37968d182062c28f1d7f6175bef
 
 /* 11. Gör så att <h1> elementet får färgen blå när musen är över elementet (:hover) */
 
@@ -65,11 +72,23 @@
 
 
 
+<<<<<<< HEAD
 
 /* Ge alla p som kommer direkt efter h2-elementet i den tredje div-en (class="third") en turkos bakgrundsfärg Tips: Adjacent sibling selector*/
 
 
+=======
+/* 3. Text i alla <label> ska vara UPPERCASE*/
+
+/* Endast första bokstaven inuti elementet med id 'special' ska få grön färg och font-size: 36px */
+
+/* Ge båda <p> elementen inutu den tredje <div>-en rosa bakgrund*/
+>>>>>>> 0ea423474e7da37968d182062c28f1d7f6175bef
 
 /* Ge alla p som kommer efter h2-elementet i den trdje div-en (class="third") en vit färg #fff Tips: General sibling selector*/
 
+<<<<<<< HEAD
 /* Ge den andra paragrafen i .contatinern en röd färg  font-size till 32px; (En utmaning...)*/
+=======
+/* Ge <em> elementet inuti det tredje <div> elementet vit färg och font-size på 20px*/
+>>>>>>> 0ea423474e7da37968d182062c28f1d7f6175bef
